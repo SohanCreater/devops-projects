@@ -1,0 +1,2 @@
+# devops-projects
+edurika project
